@@ -2,7 +2,7 @@
 
 
 * Performed comprehensive data cleaning, including:
-* 
+  
 **Data Processing Steps:**
 
 * Converted column datatypes to appropriate formats
