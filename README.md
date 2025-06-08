@@ -1,2 +1,9 @@
 # EDA-on-Google-Play-Store
-Hi, in this Exploratory Data Analysis I have cleaned the data ,changed the datatype, handled the null values &amp; duplicate values.  The most challenging Task in this project was to change the datatypes. So i used my  innovative techniques so as to reduce the time complexity. And therefore making the project more efficient 
+* Performed comprehensive data cleaning, including:
+
+  * Converted column datatypes to appropriate formats
+  * Handled missing values through imputation and removal strategies
+  * Removed duplicate records to ensure data integrity
+* Tackled the most challenging task—datatype transformation—by developing and implementing innovative techniques that significantly reduced time complexity
+* Enhanced overall processing efficiency, resulting in a well-structured dataset ready for advanced analysis and modeling
+
